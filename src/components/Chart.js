@@ -61,7 +61,7 @@ const Chart = () => {
     
     <h2>A Polyline</h2>
     <svg width="50" height="50">
-    <polyline fill="none" stroke="blue" strokeWidth="2"
+    <polyline fill="none" stroke="blue" strokeWidth="1"
       points="05,30
               15,30
               15,20
